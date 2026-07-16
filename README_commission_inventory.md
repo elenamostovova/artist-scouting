@@ -67,7 +67,8 @@ Each run produces a trace waterfall showing:
 - Full attribute set per span — clicking any span shows the full business context
 - Span events — key decisions (e.g. inventory partial, specialist logistics triggered) recorded as events on the span
 
-> **Screenshot:** [add Dash0 trace waterfall screenshot here]
+<img width="756" height="552" alt="Screenshot 2026-07-16 at 11 30 36" src="https://github.com/user-attachments/assets/ef03ee77-f8e1-432e-9f7b-dade3189105c" />
+
 
 ---
 
@@ -88,4 +89,4 @@ This directly informed the approach to the Dash0 product evaluation — understa
 
 ---
 
-*Part of the [Art for Breakfast](https://artforbreakfast.com) agentic automation stack.*
+*Part of the [Art for Breakfast](https://elenamostovova.substack.com) agentic automation stack.*
