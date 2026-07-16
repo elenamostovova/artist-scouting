@@ -80,7 +80,8 @@ IF node: medium contains "paint"?
         Error handler → Gmail alert if Claude call fails
 ```
 
-> **Screenshot:** [add n8n workflow canvas screenshot here]
+> <img width="976" height="433" alt="Screenshot 2026-07-07 at 16 41 58" src="https://github.com/user-attachments/assets/cbc3b62b-4d7d-432f-ba68-5546c15d0c58" />
+
 
 The error handling branch is intentional — it alerts via email if any Claude call fails silently, which matters in a production agentic workflow where silent failures corrupt downstream data.
 
@@ -130,4 +131,4 @@ This directly maps to a real product problem: as AI workflows become more comple
 
 ---
 
-*Part of the [Art for Breakfast](https://artforbreakfast.com) agentic automation stack.*
+*Part of the [Art for Breakfast](https://elenamostovova.substack.com) agentic automation stack.*
